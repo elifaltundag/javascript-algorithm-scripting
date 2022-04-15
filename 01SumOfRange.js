@@ -1,8 +1,7 @@
 /* 
 We'll pass you an array of two numbers. Return the sum of those two numbers plus the sum of all the numbers between them. The lowest number will not always come first.
 
-sumAll([4, 1])  should return 10.
-sumAll([5, 10]) should return 45.
+source: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-numbers-in-a-range
 */
 
 
